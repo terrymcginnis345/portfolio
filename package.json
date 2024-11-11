@@ -9,13 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.14",
-    "expo-status-bar": "~1.11.1",
+    "@expo/metro-runtime": "~3.2.3",
+    "expo": "~51.0.39",
+    "expo-av": "~14.0.7",
+    "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-dom": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-media-kit": "^0.0.14",
+    "react-native-sound": "^0.11.2",
+    "react-native-track-player": "^4.1.1",
+    "react-native-web": "~0.19.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "metro-config": "^0.80.8"
   },
   "private": true
 }
