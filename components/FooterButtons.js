@@ -13,7 +13,7 @@ export default function FooterButtons(props) {
             flex: 0,
             flexDirection: 'row',
             justifyContent: 'center',
-            backgroundColor: 'rgb(196, 255, 249)',
+            backgroundColor: 'green',
             paddingVertical: 22,
             // backgroundColor: 'red',
             alignItems: 'flex-start'

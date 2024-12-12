@@ -60,7 +60,7 @@ export default function Player(props) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "rgb(196, 255, 249)",
+    backgroundColor: "green",
     alignItems: "center",
     justifyContent: "center",
     flexDirection: "row",

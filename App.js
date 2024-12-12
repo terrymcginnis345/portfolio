@@ -56,7 +56,7 @@ export default function App() {
         flex: 1,
         flexDirection: 'column',
         justifyContent: 'center',
-        backgroundColor: 'rgb(196, 255, 249)',
+        backgroundColor: 'green',
         alignItems: 'center'
       }
   })
